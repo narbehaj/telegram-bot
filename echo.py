@@ -1,4 +1,5 @@
 import telepot
+import time
 
 telegram_token = ''
 
